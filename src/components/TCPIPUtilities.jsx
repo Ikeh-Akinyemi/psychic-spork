@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, ChevronRight, Terminal, Network, Layers, Globe, Wifi, Link } from 'lucide-react';
+import { ChevronDown, ChevronRight, Network, Layers, Globe, Link } from 'lucide-react';
 
 const TCPIPUtilities = () => {
   const [expandedSections, setExpandedSections] = useState({
