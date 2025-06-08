@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tcp-ip-utilities/static/css/main.a402134c.css",
+    "main.js": "/tcp-ip-utilities/static/js/main.8d5a8a17.js",
+    "static/js/453.c53c518e.chunk.js": "/tcp-ip-utilities/static/js/453.c53c518e.chunk.js",
+    "index.html": "/tcp-ip-utilities/index.html",
+    "main.a402134c.css.map": "/tcp-ip-utilities/static/css/main.a402134c.css.map",
+    "main.8d5a8a17.js.map": "/tcp-ip-utilities/static/js/main.8d5a8a17.js.map",
+    "453.c53c518e.chunk.js.map": "/tcp-ip-utilities/static/js/453.c53c518e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a402134c.css",
+    "static/js/main.8d5a8a17.js"
+  ]
+}
